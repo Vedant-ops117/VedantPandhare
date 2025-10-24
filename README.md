@@ -1,17 +1,9 @@
 # 👋 Hi, I'm Vedant Pandhare!
-
+![Bar Graph GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 🎓 A data analytics and AI enthusiast passionate about developing impactful projects with Machine Learning and Deep Learning.  
 💡 Currently exploring **computer vision, NLP, and AI-driven applications**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=blue)
-
----
-
-## 🚀 Projects & Interests
-- 🧠 **AI Projects**: Object detection, age & gender recognition, gesture control  
-- ⚙️ **IoT + ML**: Condition monitoring for turbines using Raspberry Pi & MPU6050  
-- 💻 **Web Dev**: Flask + React-based AI dashboards and visualization tools  
-- 📊 **Analytics**: Power BI, Tableau, Excel — storytelling with data  
 
 ---
 
@@ -23,28 +15,30 @@
 
 ---
 
-## 🏅 Achievements
-🥇 Gold Medalist – Capstone Project (2024)  
-🥇 Gold Medalist – TekLingo Hackathon (IoT & ML, 2025)  
-🥇 Gold Medalist – Codeathon (ML Domain, 2025)  
-🏅 Student Coordinator – National Science Day  
-
----
-
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant%20Pandhare-blue?logo=linkedin)](https://linkedin.com/in/vedantpandhare)
-[![GitHub](https://img.shields.io/badge/GitHub-vedantpandhare-black?logo=github)](https://github.com/vedantpandhare)
+<div>
+  <a href="https://github.com/VedantPandhare" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<div>
+  <a href="https://www.linkedin.com/in/vedant-pandhare" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
 [![Email](https://img.shields.io/badge/Email-vedantpandhare%40gmail.com-red?logo=gmail)](mailto:vedantpandhare@gmail.com)
 
 ---
 
 ⭐️ *“Turning ideas into code, and code into impact.”*
-
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant-ops117&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-ops117&layout=compact&theme=tokyonight)
 
 ![Machine Learning](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
 
+### 💖 Support My Work:
+If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊 
 
-# VedantPandhare
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/VedantPandhare)
+
