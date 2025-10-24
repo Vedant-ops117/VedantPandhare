@@ -28,11 +28,15 @@
   </a>
 </div>
 
-[![Email](https://img.shields.io/badge/Email-vedantpandhare%40gmail.com-red?logo=gmail)](mailto:vedantpandhare@gmail.com)
+<a href="mailto:youremail@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+---
+⭐️ *“Turning ideas into code, and code into impact.”*
 
 ---
 
-⭐️ *“Turning ideas into code, and code into impact.”*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-ops117&layout=compact&theme=tokyonight)
 
 ![Machine Learning](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
