@@ -40,9 +40,9 @@
 
 ⭐️ *“Turning ideas into code, and code into impact.”*
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantpandhare&show_icons=true&theme=tokyonight)
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant-ops117&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpandhare&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-ops117&layout=compact&theme=tokyonight)
 
 ![Machine Learning](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
 
